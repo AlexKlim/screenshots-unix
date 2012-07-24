@@ -1,0 +1,12 @@
+run follow commands:
+1) chmod +x installScreen.sh
+2) ./installScreen
+3) chmod +x my_screen.sh
+
+Now you can get screenshot:
+./my_screen.sh
+
+Additional Note:
+You can add hot key for this command :)
+
+Good Luck !
